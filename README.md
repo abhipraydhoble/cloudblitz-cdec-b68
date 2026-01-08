@@ -95,9 +95,6 @@ The **Software Development Life Cycle (SDLC)** is a structured process used to d
 
 ![Image](https://www.manageengine.com/products/service-desk/images/devops-lifecycle-diagram.png)
 
-![Image](https://learn.microsoft.com/en-us/azure/devops/pipelines/architectures/media/azure-devops-ci-cd-architecture.svg?view=azure-devops)
-
-![Image](https://media.licdn.com/dms/image/v2/C5112AQGYZyrWrzdy5Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1566745196363?e=2147483647\&t=TqqU7SKV5j5bWsCTZ0MbwybyBrZ9Iid8NbRfs4kN4wE\&v=beta)
 
 ---
 
@@ -256,4 +253,4 @@ Cloud computing allows access to **servers, storage, databases, networking, and 
 * Cloud DevOps Engineer
 
 
-Just tell me how you want to use it 🙂
+

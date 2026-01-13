@@ -63,7 +63,8 @@ A **server** is a powerful computer or system that provides data, services, or r
 
 **Application/user:** Users interact with the system through varies applications such as office, games, etc. 
 
-<img width="1258" height="642" alt="image" src="https://github.com/user-attachments/assets/2bb7d4f9-6df7-489c-a2c7-89d80974f974" />
+<img width="1053" height="511" alt="image" src="https://github.com/user-attachments/assets/4e893083-d25f-4b18-b64d-316f418acac1" />
+
 
 
 ## Distributions of Linux

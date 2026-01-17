@@ -1,13 +1,13 @@
-# VIM Editor
+# 📝 VIM Editor
 
-> **Esc** → exit from **any mode**
+> 🔴 **Esc** → exit from **any mode**
 
 ---
 
-## Command Mode (default)
+## 🔵 Command Mode (default)
 
-| Key | Action |
-|----|-------|
+| 🧩 Key | 📌 Action |
+|------|----------|
 | `yy` | copy line |
 | `cc` | cut line |
 | `dd` | delete line |
@@ -21,20 +21,20 @@
 
 ---
 
-## Insert Mode
+## 🟢 Insert Mode
 
-| Key | Action |
-|----|-------|
+| ⌨️ Key | ✍️ Action |
+|------|----------|
 | `i` | insert text |
 | `o` | new line below |
 | `O` | new line above |
 
 ---
 
-## Execution Mode (Command-Line)
+## 🟠 Execution Mode (Command-Line)
 
-| Command | Action |
-|--------|-------|
+| ⚙️ Command | 🚀 Action |
+|-----------|----------|
 | `:w` | save |
 | `:q` | quit |
 | `:wq` / `:x` | save and quit |
@@ -45,10 +45,10 @@
 
 ---
 
-## Visual Mode
+## 🟣 Visual Mode
 
-| Key | Action |
-|----|-------|
+| 🎯 Key | ✂️ Action |
+|------|----------|
 | `v` | select text |
 | `V` | select line |
 | `y` | copy |

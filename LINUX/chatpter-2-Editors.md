@@ -42,6 +42,7 @@
 | `:set nu` | show line numbers |
 | `:set nonu` | hide line numbers |
 | `:%s/old/new` | replace word globally |
+| `:!<command>` | run command without leaving editor|
 
 ---
 

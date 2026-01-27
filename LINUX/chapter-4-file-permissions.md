@@ -224,3 +224,5 @@ ln filename hardlink
 ````
 ln -s filename softlink
 ````
+<img width="1231" height="556" alt="image" src="https://github.com/user-attachments/assets/61fb1bf3-0948-419c-b835-caaa1aab8002" />
+
